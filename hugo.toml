@@ -1,0 +1,46 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'anatole'
+
+[params]
+title = "Sophie Mirabai Woodward"
+author = "Sophie Mirabai Woodward"
+description = "PhD Student in Biostatistics at Harvard"
+profilePicture = "images/profile.png"
+
+# add email
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "Email"
+url = "mailto:swoodward@g.harvard.edu"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/sophi890"
+
+# add google scholar
+[[params.socialIcons]]
+icon = "fas fa-graduation-cap"
+title = "Google Scholar"
+url = "https://scholar.google.com/citations?user=D5qlWOwAAAAJ&hl=en"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/sophie-woodward-b35a68293/"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "CV"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
