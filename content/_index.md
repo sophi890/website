@@ -3,7 +3,7 @@ title: "Welcome to My Site"
 ---
 
 ## About Me
-I am a third-year Ph.D. student in the Department of Biostatistics at Harvard University advised by [Dr. Francesca Dominici](https://scholar.google.co.uk/citations?user=RSwElNMAAAAJ&hl=en). My research interests include causal inference, spatial statistics, and environmental health. I am currently working on developing methods to address unmeasured spatial confounding. I joined the [National Studies of Air Pollution and Health (NSAPH)](https://www.hsph.harvard.edu/nsaph/) research group in 2020. 
+I am a third-year Ph.D. student in the Department of Biostatistics at Harvard University advised by [Dr. Francesca Dominici](https://scholar.google.co.uk/citations?user=RSwElNMAAAAJ&hl=en). My research interests include causal inference, spatial statistics, and environmental health. I am currently working on developing methods to address unmeasured spatial confounding. I joined the [National Studies of Air Pollution and Health (NSAPH)](https://www.hsph.harvard.edu/nsaph/) research group in 2021. 
 
 ## Publications
 - **Woodward, S.M.**, Tec, M. & Dominici, F. (2024). [An Instrumental Variables Framework to Unite Spatial Confounding Methods](https://arxiv.org/pdf/2411.10381). Arxiv preprint. (Submitted.)
@@ -13,9 +13,13 @@ I am a third-year Ph.D. student in the Department of Biostatistics at Harvard Un
 - Field, R.D., Moelis N., Salzman J., Bax, A., Ausiello, D., **Woodward, S.M.**, Wu, X., Dominici, F., Edwards, D.A. (2021). [Inhaled Water and Salt Suppress Respiratory Droplet Generation and COVID-19 Incidence and Death on US Coastlines](https://www.worldscientific.com/doi/abs/10.1142/S2529732521400058). Molecular Frontiers Journal. 
 
 ## Awards 
-- 2022 Recipient of the [National Science Foundation Graduate Research Fellowship](https://community.amstat.org/sciencepolicy/blogs/steve-pierson/2022/04/08/2022-nsf-graduate-research-fellowships-include-20?hlmlt=VT).
-- Selected student speaker at the [Accelerate: Data for Social Impact Conference](https://data.org/events/accelerate-data-for-social-impact-conference/) in June 2024.
 - 2024 Recipient of the Harvard University Certificate of Distinction in Teaching Award.
+- 2022 Recipient of the [National Science Foundation Graduate Research Fellowship](https://community.amstat.org/sciencepolicy/blogs/steve-pierson/2022/04/08/2022-nsf-graduate-research-fellowships-include-20?hlmlt=VT).
+
+## Presentations
+- Eastern North American Region (ENAR) Spring Meeting, New Orleans, LA, March 2025. 
+- Selected student speaker at the [Accelerate: Data for Social Impact Conference](https://data.org/events/accelerate-data-for-social-impact-conference/) in June 2024.
+- American Causal Inference Conference (ACIC), Seattle, WA, May 2024.
 
 ## Education
 - M.A. in Biostatistics, Harvard University, 2024.
