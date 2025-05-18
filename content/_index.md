@@ -13,13 +13,18 @@ I am a third-year Ph.D. student in the Department of Biostatistics at Harvard Un
 - Field, R.D., Moelis N., Salzman J., Bax, A., Ausiello, D., **Woodward, S.M.**, Wu, X., Dominici, F., Edwards, D.A. (2021). [Inhaled Water and Salt Suppress Respiratory Droplet Generation and COVID-19 Incidence and Death on US Coastlines](https://www.worldscientific.com/doi/abs/10.1142/S2529732521400058). Molecular Frontiers Journal. 
 
 ## Awards 
+- 2025 Recipient of the [Tom Ten Have Award](https://sci-info.org/tom-ten-have-award/).
 - 2024 Recipient of the Harvard University Certificate of Distinction in Teaching Award.
 - 2022 Recipient of the [National Science Foundation Graduate Research Fellowship](https://community.amstat.org/sciencepolicy/blogs/steve-pierson/2022/04/08/2022-nsf-graduate-research-fellowships-include-20?hlmlt=VT).
 
 ## Presentations
+- American Causal Inference Conference (ACIC), Detroit, MI, May 18 2025.
 - Eastern North American Region (ENAR) Spring Meeting, New Orleans, LA, March 2025. 
 - Selected student speaker at the [Accelerate: Data for Social Impact Conference](https://data.org/events/accelerate-data-for-social-impact-conference/) in June 2024.
 - American Causal Inference Conference (ACIC), Seattle, WA, May 2024.
+
+## Teaching
+- Teaching fellow for [Statistical Inference I](https://beta.my.harvard.edu/course/BST231/2025-Spring/1), 2024-2025.
 
 ## Education
 - M.A. in Biostatistics, Harvard University, 2024.
