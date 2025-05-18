@@ -18,7 +18,7 @@ I am a third-year Ph.D. student in the Department of Biostatistics at Harvard Un
 - 2022 Recipient of the [National Science Foundation Graduate Research Fellowship](https://community.amstat.org/sciencepolicy/blogs/steve-pierson/2022/04/08/2022-nsf-graduate-research-fellowships-include-20?hlmlt=VT).
 
 ## Presentations
-- American Causal Inference Conference (ACIC), Detroit, MI, May 18 2025.
+- American Causal Inference Conference (ACIC), Detroit, MI, May 2025.
 - Eastern North American Region (ENAR) Spring Meeting, New Orleans, LA, March 2025. 
 - Selected student speaker at the [Accelerate: Data for Social Impact Conference](https://data.org/events/accelerate-data-for-social-impact-conference/) in June 2024.
 - American Causal Inference Conference (ACIC), Seattle, WA, May 2024.
