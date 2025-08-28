@@ -6,6 +6,8 @@ title: "Welcome to My Site"
 I am a third-year Ph.D. student in the Department of Biostatistics at Harvard University advised by [Dr. Francesca Dominici](https://scholar.google.co.uk/citations?user=RSwElNMAAAAJ&hl=en). My research interests include causal inference, spatial statistics, and environmental health. I am currently working on developing methods to address unmeasured spatial confounding. I joined the [National Studies of Air Pollution and Health (NSAPH)](https://www.hsph.harvard.edu/nsaph/) research group in 2021. 
 
 ## Publications
+- **Woodward, S.M.**, Dominici, F. & Zubizarreta, J.R. (2025). [Understanding Spatial Regression Models from a Weighting Perspective in an Observational Study of Superfund Remediation
+](https://arxiv.org/abs/2508.19572). Arxiv preprint. 
 - **Woodward, S.M.**, Tec, M. & Dominici, F. (2024). [An Instrumental Variables Framework to Unite Spatial Confounding Methods](https://arxiv.org/pdf/2411.10381). Arxiv preprint. (Submitted.)
 - Tec, M., Trisovic, A., Audirac M., **Woodward, S.M.**, Hu, J., Khoshnevis, N. & Dominici, F. (2024). [SpaCE: The Spatial Confounding Environment](https://openreview.net/forum?id=D9rJdtmIG6). International Conference on Learning Representations. 
 - **Woodward, S.M.**, Mork, D., Wu, X., Hou, Z., Braun, D., & Dominici, F. (2023). Combining Aggregate and Individual-level Data to Estimate [Individual-level Associations Between Air Pollution and COVID-19 Mortality in the United States](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0002178). PLOS Global Public Health.
