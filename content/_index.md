@@ -3,7 +3,7 @@ title: "Welcome to My Site"
 ---
 
 ## About Me
-I am a third-year Ph.D. student in the Department of Biostatistics at Harvard University advised by [Dr. Francesca Dominici](https://scholar.google.co.uk/citations?user=RSwElNMAAAAJ&hl=en). My research interests include causal inference, spatial statistics, and environmental health. I am currently working on developing methods to address unmeasured spatial confounding. I joined the [National Studies of Air Pollution and Health (NSAPH)](https://www.hsph.harvard.edu/nsaph/) research group in 2021. 
+I am a fourth-year Ph.D. student in the Department of Biostatistics at Harvard University advised by [Dr. Francesca Dominici](https://scholar.google.co.uk/citations?user=RSwElNMAAAAJ&hl=en). My research interests include causal inference, spatial statistics, and environmental health. I am currently working on developing methods to address unmeasured spatial confounding. I joined the [National Studies of Air Pollution and Health (NSAPH)](https://www.hsph.harvard.edu/nsaph/) research group in 2021. 
 
 ## Publications
 - **Woodward, S.M.**, Dominici, F. & Zubizarreta, J.R. (2025). [Understanding Spatial Regression Models from a Weighting Perspective in an Observational Study of Superfund Remediation
