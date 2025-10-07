@@ -28,6 +28,10 @@ I am a fourth-year Ph.D. student in the Department of Biostatistics at Harvard U
 ## Teaching
 - Teaching fellow for [Statistical Inference I](https://beta.my.harvard.edu/course/BST231/2025-Spring/1), 2024-2025.
 
+## Service and Outreach
+- Peer reviewer for *CauScien: Uncovering Causality in Science* [(NeurIPS 2025 Workshop)](https://sites.google.com/view/causcien).
+- Instructor for the [StatStart](https://hsph.harvard.edu/fellowship-special-program/statstart/) summer program.
+
 ## Education
 - M.A. in Biostatistics, Harvard University, 2024.
 - B.A. in Statistics and Mathematics, Harvard University, 2022.
