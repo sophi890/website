@@ -16,6 +16,7 @@ I am a fourth-year Ph.D. student in the Department of Biostatistics at Harvard U
 
 ## Awards 
 - 2025 Recipient of the [Tom Ten Have Award](https://sci-info.org/tom-ten-have-award/) for my [poster](/ACIC_poster_2025_final.pdf) on spatial regression and weighting.
+- 2025 Recipient of the Harvard University Certificate of Distinction in Teaching Award.
 - 2024 Recipient of the Harvard University Certificate of Distinction in Teaching Award.
 - 2022 Recipient of the [National Science Foundation Graduate Research Fellowship](https://community.amstat.org/sciencepolicy/blogs/steve-pierson/2022/04/08/2022-nsf-graduate-research-fellowships-include-20?hlmlt=VT).
 
