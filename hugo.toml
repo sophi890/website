@@ -7,7 +7,7 @@ theme = 'anatole'
 title = "Sophie Mirabai Woodward"
 author = "Sophie Mirabai Woodward"
 description = "PhD Student in Biostatistics at Harvard"
-profilePicture = "images/profile.png"
+profilePicture = "images/headshot_copy.png"
 
 # add email
 [[params.socialIcons]]
