@@ -8,6 +8,7 @@ title = "Sophie Mirabai Woodward"
 author = "Sophie Mirabai Woodward"
 description = "PhD Student in Biostatistics at Harvard"
 profilePicture = "images/headshot_copy.png"
+customCss = ["css/custom.css"]
 
 # add email
 [[params.socialIcons]]
