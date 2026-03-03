@@ -30,7 +30,7 @@ I am a fourth-year Ph.D. student in the Department of Biostatistics at Harvard U
 - Teaching fellow for [Statistical Inference I](https://beta.my.harvard.edu/course/BST231/2025-Spring/1), 2024-2025.
 
 ## Service and Outreach
-- Co-presenter with Sal Balkus of a [webinar](https://www.climatehealthcafe.org/news/recap-spatial-confounding-and-interference-in-environmental-health-studies) on spatial confounding and interference in environmental health studies hosted by the [CAFE Research Coordinating Center](https://www.climatehealthcafe.org/), February 2026.
+- Co-presenter with Sal Balkus of a [webinar](https://www.climatehealthcafe.org/news/recap-spatial-confounding-and-interference-in-environmental-health-studies) hosted by the [CAFE Research Coordinating Center](https://www.climatehealthcafe.org/), February 2026.
 - Peer reviewer for *CauScien: Uncovering Causality in Science* [(NeurIPS 2025 Workshop)](https://sites.google.com/view/causcien).
 - Instructor for the [StatStart](https://hsph.harvard.edu/fellowship-special-program/statstart/) summer program.
 
