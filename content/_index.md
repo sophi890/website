@@ -20,6 +20,7 @@ I am a fourth-year Ph.D. student in the Department of Biostatistics at Harvard U
 - 2022 Recipient of the [National Science Foundation Graduate Research Fellowship](https://community.amstat.org/sciencepolicy/blogs/steve-pierson/2022/04/08/2022-nsf-graduate-research-fellowships-include-20?hlmlt=VT).
 
 ## Presentations
+- Harvard Data Science Initiative (HDSI) [Causal Inference Showcase](https://datascience.harvard.edu/calendar_event/causal-inference-showcase-2026/), Cambridge, MA, February 2026.
 - American Causal Inference Conference (ACIC), Detroit, MI, May 2025.
 - Eastern North American Region (ENAR) Spring Meeting, New Orleans, LA, March 2025. 
 - Selected student speaker at the [Accelerate: Data for Social Impact Conference](https://data.org/events/accelerate-data-for-social-impact-conference/) in June 2024.
@@ -29,6 +30,7 @@ I am a fourth-year Ph.D. student in the Department of Biostatistics at Harvard U
 - Teaching fellow for [Statistical Inference I](https://beta.my.harvard.edu/course/BST231/2025-Spring/1), 2024-2025.
 
 ## Service and Outreach
+- Co-presenter with Sal Balkus of a [webinar](https://www.climatehealthcafe.org/news/recap-spatial-confounding-and-interference-in-environmental-health-studies) on spatial confounding and interference in environmental health studies hosted by the [CAFE Research Coordinating Center](https://www.climatehealthcafe.org/), February 2026.
 - Peer reviewer for *CauScien: Uncovering Causality in Science* [(NeurIPS 2025 Workshop)](https://sites.google.com/view/causcien).
 - Instructor for the [StatStart](https://hsph.harvard.edu/fellowship-special-program/statstart/) summer program.
 
