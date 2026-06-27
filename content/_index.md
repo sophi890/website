@@ -13,6 +13,9 @@ I am a fourth-year Ph.D. student in the Department of Biostatistics at Harvard U
 - **Woodward, S.M.** & Wu, X. (2023). [Review 1: Long-term Outdoor Air Pollution and COVID-19 Mortality in London: an Individual-level Analysis](https://rrid.mitpress.mit.edu/pub/rl8c7w1b/release/1). Rapid Reviews Infectious Diseases.
 - Field, R.D., Moelis N., Salzman J., Bax, A., Ausiello, D., **Woodward, S.M.**, Wu, X., Dominici, F., Edwards, D.A. (2021). [Inhaled Water and Salt Suppress Respiratory Droplet Generation and COVID-19 Incidence and Death on US Coastlines](https://www.worldscientific.com/doi/abs/10.1142/S2529732521400058). Molecular Frontiers Journal. 
 
+## Professional Experience
+- Health Economics and Outcomes Research (HEOR) Associate Intern, Analysis Group, Summer 2026.
+
 ## Awards 
 - 2025 Recipient of the [Tom Ten Have Award](https://sci-info.org/tom-ten-have-award/) at the American Causal Inference Conference for my [poster](/ACIC_poster_2025_final.pdf) on spatial regression and weighting.
 - 2025 Recipient of the Harvard University Certificate of Distinction in Teaching Award.
@@ -20,6 +23,7 @@ I am a fourth-year Ph.D. student in the Department of Biostatistics at Harvard U
 - 2022 Recipient of the [National Science Foundation Graduate Research Fellowship](https://community.amstat.org/sciencepolicy/blogs/steve-pierson/2022/04/08/2022-nsf-graduate-research-fellowships-include-20?hlmlt=VT).
 
 ## Presentations
+- Spotlight presentation at the American Causal Inference Conference (ACIC), Salt Lake City, UT, May 2026.
 - Harvard Data Science Initiative (HDSI) [Causal Inference Showcase](https://datascience.harvard.edu/calendar_event/causal-inference-showcase-2026/), Cambridge, MA, February 2026.
 - American Causal Inference Conference (ACIC), Detroit, MI, May 2025.
 - Eastern North American Region (ENAR) Spring Meeting, New Orleans, LA, March 2025. 
