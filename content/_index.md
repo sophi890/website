@@ -14,7 +14,7 @@ I am a fourth-year Ph.D. student in the Department of Biostatistics at Harvard U
 - Field, R.D., Moelis N., Salzman J., Bax, A., Ausiello, D., **Woodward, S.M.**, Wu, X., Dominici, F., Edwards, D.A. (2021). [Inhaled Water and Salt Suppress Respiratory Droplet Generation and COVID-19 Incidence and Death on US Coastlines](https://www.worldscientific.com/doi/abs/10.1142/S2529732521400058). Molecular Frontiers Journal. 
 
 ## Professional Experience
-- Health Economics and Outcomes Research (HEOR) Associate Intern, Analysis Group, Summer 2026.
+- Associate Intern in Health Economics and Outcomes Research, Analysis Group, Summer 2026.
 
 ## Awards 
 - 2025 Recipient of the [Tom Ten Have Award](https://sci-info.org/tom-ten-have-award/) at the American Causal Inference Conference for my [poster](/ACIC_poster_2025_final.pdf) on spatial regression and weighting.
