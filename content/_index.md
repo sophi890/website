@@ -3,7 +3,7 @@ title: "Welcome to My Site"
 ---
 
 ## About Me
-I am a fourth-year Ph.D. student in the Department of Biostatistics at Harvard University advised by [Dr. Francesca Dominici](https://scholar.google.co.uk/citations?user=RSwElNMAAAAJ&hl=en). My research interests include causal inference, spatial statistics, and environmental health. I am currently working on developing methods to address unmeasured spatial confounding. I joined the [National Studies of Air Pollution and Health (NSAPH)](https://www.hsph.harvard.edu/nsaph/) research group in 2021. 
+I am a fifth-year Ph.D. student in the Department of Biostatistics at Harvard University advised by [Dr. Francesca Dominici](https://scholar.google.co.uk/citations?user=RSwElNMAAAAJ&hl=en). My research interests include causal inference, spatial statistics, and environmental health. I am currently working on developing methods to address unmeasured spatial confounding. I joined the [National Studies of Air Pollution and Health (NSAPH)](https://www.hsph.harvard.edu/nsaph/) research group in 2021. 
 
 ## Publications
 - **Woodward, S.M.**, Dominici, F. & Zubizarreta, J.R. (2025). [Understanding Spatial Regression Models from a Weighting Perspective in an Observational Study of Superfund Remediation](https://arxiv.org/pdf/2508.19572). Under review.
@@ -35,7 +35,7 @@ I am a fourth-year Ph.D. student in the Department of Biostatistics at Harvard U
 
 ## Service and Outreach
 - Co-presenter with Sal Balkus of a [webinar](https://www.climatehealthcafe.org/news/recap-spatial-confounding-and-interference-in-environmental-health-studies) hosted by the [CAFE Research Coordinating Center](https://www.climatehealthcafe.org/), February 2026.
-- Peer reviewer for *CauScien: Uncovering Causality in Science* [(NeurIPS 2025 Workshop)](https://sites.google.com/view/causcien).
+- Peer reviewer for *CauScien: Uncovering Causality in Science* [(NeurIPS 2025 Workshop)](https://sites.google.com/view/causcien) and the [Journal of Causal Inference](https://www.degruyterbrill.com/journal/key/jci/html?srsltid=AfmBOoryLe5ScEDfbRYOaF4E9hhHGfOdR5rC75LBe-x9FUx7GnxkLccR).
 - Instructor for the [StatStart](https://hsph.harvard.edu/fellowship-special-program/statstart/) summer program.
 
 ## Education
